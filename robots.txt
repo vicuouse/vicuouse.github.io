@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vicuouse.github.io/sitemap.html.gz
+Sitemap: https://vicuouse.github.io/app/sitemap.html.gz
+Sitemap: https://vicuouse.github.io/assets/sitemap.html.gz
+Sitemap: https://vicuouse.github.io/css/sitemap.html.gz
+Sitemap: https://vicuouse.github.io/includes/sitemap.html.gz
+Sitemap: https://vicuouse.github.io/item/sitemap.html.gz
+Sitemap: https://vicuouse.github.io/src/sitemap.html.gz
